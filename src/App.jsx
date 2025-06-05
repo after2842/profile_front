@@ -62,7 +62,7 @@ function App() {
         </div>
 
         <div className="md:ml-24 mx-4">
-          <div className="md:max-w-6xl shadow-xl p-8 rounded-2xl border mt-[200px] mb-20">
+          <div className="md:max-w-6xl shadow-xl p-8 rounded-2xl border border-gray-500 mt-[200px] mb-20">
             <div className="md:ml-8  text-center text-4xl font-bold">
               Bidangil
             </div>
@@ -103,7 +103,7 @@ function App() {
               solutions are explained in documents and the source code! Please
               feel free to explore them.
             </div>
-            <div className="flex mt-16 flex-col p-4 border border-1 max-w-md rounded-xl">
+            <div className="flex mt-16 flex-col p-4 border border-1 border-gray-400 max-w-md rounded-xl">
               <a
                 href="https://github.com/after2842/bidangil_back"
                 target="_blank"
@@ -212,7 +212,7 @@ function App() {
               </div>
             </a>
 
-            <div className="flex mt-16 flex-col p-4 border max-w-md rounded-xl">
+            <div className="flex mt-16 flex-col p-4 border max-w-md border-gray-400 rounded-xl">
               <div className="flex flex-row">
                 <a
                   href="https://docs.google.com/document/d/1sj5MaGnDLIzY0_8KT0IL0ZVg56Pli3x469SaO02Zsj4/edit?usp=sharing"
@@ -285,7 +285,7 @@ function App() {
               However, the document I wrote for this project is below!
             </div>
             <div className="">
-              <div className="flex mt-16 flex-col p-4 border max-w-md rounded-xl">
+              <div className="flex mt-16 flex-col p-4 border max-w-md rounded-xl border-gray-400">
                 <div className="flex flex-row">
                   <a
                     href="https://docs.google.com/document/d/1VU3HqMBB8EhpG-fJJ2C2bpNgtL616EChp-wIZbWtaaM/edit?usp=sharing"
@@ -301,7 +301,7 @@ function App() {
           </div>
         </div>
       </div>
-      <div className=" w-full bg-black mt-20 text-white flex justify-center p-8 ">
+      <div className=" w-full bg-black mt-20 text-white flex justify-center p-8  ">
         <a
           href="Resume_Samuel_Choi.pdf"
           target="_blank"
